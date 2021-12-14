@@ -1,4 +1,5 @@
 
 Hola!
 Mundo del vim
-(Arriba nano) jsjs
+(Arriba nano)
+Abajo vim
